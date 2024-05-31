@@ -8,6 +8,7 @@ namespace App
         {
             GameStateMachineInstaller.Install(Container);
             AssetProviderInstaller.Install(Container);
+            UnityServicesInstaller.Install(Container);
             SceneLoaderInstaller.Install(Container);
         }
     }

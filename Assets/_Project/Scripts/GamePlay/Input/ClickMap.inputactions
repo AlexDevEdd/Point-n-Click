@@ -1,0 +1,45 @@
+{
+    "name": "ClickMap",
+    "maps": [
+        {
+            "name": "GamePlay",
+            "id": "0cea9348-7fdc-448d-8189-5f101b3dc5d0",
+            "actions": [
+                {
+                    "name": "ClickPosition",
+                    "type": "Button",
+                    "id": "ec40b48d-c2d1-478f-8253-fa2063133102",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b47dba0d-f313-4de2-bc2a-5c3f4056034f",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ClickPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c6f3bd20-2116-40c9-ad74-aa8cad4e5c7d",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ClickPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

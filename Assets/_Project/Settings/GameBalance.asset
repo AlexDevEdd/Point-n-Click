@@ -19,7 +19,7 @@ MonoBehaviour:
     MoveSpeed: 5
     RotationSpeed: 500
   PathConfig:
-    MaxCountQueue: 4
+    MaxCountQueue: 6
   LocationConfig:
     LevelAsset:
       m_AssetGUID: 22dfea87c6ae0f84483cd288dbe37c21

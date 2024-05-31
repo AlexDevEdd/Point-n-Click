@@ -20,7 +20,6 @@ namespace GamePlay
             _agent = agent;
             _agent.speed = balance.PlayerConfig.MoveSpeed;
             _agent.angularSpeed = balance.PlayerConfig.RotationSpeed;
-            _agent.enabled = true;
         }
         
         public async UniTask Move(Vector3 position, CancellationToken token)

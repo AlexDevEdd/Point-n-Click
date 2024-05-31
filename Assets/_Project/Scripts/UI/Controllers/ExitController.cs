@@ -15,10 +15,10 @@ namespace UI
         
         private Tween _fillAmountTween;
         
-        public ExitController(IStateMachine stateMachine, /*ISaveSystem saveSystem,*/ ExitPanel exitPanel)
+        public ExitController(IStateMachine stateMachine, ISaveSystem saveSystem, ExitPanel exitPanel)
         {
             _stateMachine = stateMachine;
-           // _saveSystem = saveSystem;
+            _saveSystem = saveSystem;
             _exitPanel = exitPanel;
         }
 
@@ -32,7 +32,7 @@ namespace UI
         {
             _exitPanel.Hide();
             _exitPanel.ExitButton.RemoveListener(OnExit);
-            //_saveSystem.Save();
+            _saveSystem.Save();
             _stateMachine.Enter<GameMenuState>().Forget();
         }
     }

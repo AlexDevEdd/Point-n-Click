@@ -4,7 +4,7 @@ using System.Security.Cryptography;
 using System.Text;
 using Cysharp.Threading.Tasks;
 
-namespace Utils.Serialize
+namespace Utils
 {
     public sealed class Сryptographer
     {

@@ -1,6 +1,6 @@
 using Cysharp.Threading.Tasks;
 
-namespace Utils.Serialize
+namespace Utils
 {
     public interface ISerializer
     {

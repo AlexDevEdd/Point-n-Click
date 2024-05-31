@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Utils.Serialize;
+using Utils;
 
-namespace App
+namespace App.SaveData
 {
     [Serializable]
     public class PlayerWaypointsData

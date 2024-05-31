@@ -1,8 +1,7 @@
 using System;
-using UnityEngine;
 using UnityEngine.AddressableAssets;
 
-namespace GamePlay.Configs
+namespace GamePlay
 {
     [Serializable]
     public struct LocationConfig

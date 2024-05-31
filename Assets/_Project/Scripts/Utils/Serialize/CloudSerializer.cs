@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 using Sirenix.Utilities;
 using Unity.Services.CloudSave;
 
-namespace Utils.Serialize
+namespace Utils
 {
     public sealed class CloudSerializer : ISerializer
     {

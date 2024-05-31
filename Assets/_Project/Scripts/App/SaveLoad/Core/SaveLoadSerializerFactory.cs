@@ -1,9 +1,8 @@
 ﻿using GamePlay;
-using GamePlay.Configs;
 using JetBrains.Annotations;
-using Utils.Serialize;
+using Utils;
 
-namespace App
+namespace App.Core
 {
     [UsedImplicitly]
     public sealed class SaveLoadSerializerFactory

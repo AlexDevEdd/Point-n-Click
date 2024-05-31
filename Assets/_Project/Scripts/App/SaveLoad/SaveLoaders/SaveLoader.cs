@@ -1,4 +1,6 @@
-namespace App
+using App.Core;
+
+namespace App.SaveLoaders
 {
     public abstract class SaveLoader<TData, TSystem> : ISaveLoader
     {

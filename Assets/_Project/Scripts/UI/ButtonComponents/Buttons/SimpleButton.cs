@@ -1,8 +1,7 @@
 using TMPro;
-using UI.States;
 using UnityEngine;
 
-namespace UI.Buttons
+namespace UI
 {
     public class SimpleButton : BaseButton
     {

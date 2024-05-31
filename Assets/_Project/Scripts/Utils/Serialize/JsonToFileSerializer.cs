@@ -4,7 +4,7 @@ using Cysharp.Threading.Tasks;
 using Newtonsoft.Json;
 using Sirenix.Utilities;
 
-namespace Utils.Serialize
+namespace Utils
 {
     public sealed class JsonToFileSerializer : ISerializer
     {

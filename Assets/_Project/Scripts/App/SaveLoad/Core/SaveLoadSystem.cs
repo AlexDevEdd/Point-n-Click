@@ -1,8 +1,9 @@
 using System.Collections.Generic;
+using App.SaveLoaders;
 using JetBrains.Annotations;
 using Zenject;
 
-namespace App
+namespace App.Core
 {
     [UsedImplicitly]
     public sealed class SaveLoadSystem : ISaveSystem, IInitializable

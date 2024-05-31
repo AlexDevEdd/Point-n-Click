@@ -1,10 +1,9 @@
 using System;
-using UI.States;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-namespace UI.Buttons
+namespace UI
 {
     public abstract class BaseButton : MonoBehaviour
     {

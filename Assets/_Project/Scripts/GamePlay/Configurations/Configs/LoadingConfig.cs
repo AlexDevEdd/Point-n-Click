@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GamePlay.Configs
+namespace GamePlay
 {
     [Serializable]
     public struct LoadingConfig

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace UI.States
+namespace UI
 {
     public abstract class BaseButtonState
     {

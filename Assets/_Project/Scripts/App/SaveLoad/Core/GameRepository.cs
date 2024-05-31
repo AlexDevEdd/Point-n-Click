@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using Cysharp.Threading.Tasks;
 using JetBrains.Annotations;
 using Utils;
-using Utils.Serialize;
 
-namespace App
+namespace App.Core
 {
     [UsedImplicitly]
     public sealed class GameRepository

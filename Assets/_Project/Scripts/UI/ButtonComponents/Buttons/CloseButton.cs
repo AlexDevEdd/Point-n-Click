@@ -1,6 +1,4 @@
-using UI.States;
-
-namespace UI.Buttons
+namespace UI
 {
     public sealed class CloseButton : BaseButton
     {

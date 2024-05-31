@@ -1,7 +1,7 @@
 using System;
-using Utils.Serialize;
+using Utils;
 
-namespace App
+namespace App.SaveData
 {
     [Serializable]
     public struct PlayerData

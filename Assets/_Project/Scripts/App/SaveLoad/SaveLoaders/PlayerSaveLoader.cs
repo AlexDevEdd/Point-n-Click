@@ -1,7 +1,9 @@
+using App.Core;
+using App.SaveData;
 using GamePlay;
 using JetBrains.Annotations;
 
-namespace App
+namespace App.SaveLoaders
 {
     [UsedImplicitly]
     public sealed class PlayerSaveLoader : SaveLoader<PlayerData, AgentMovement>

@@ -1,4 +1,4 @@
-namespace UI.States
+namespace UI
 {
     public enum ButtonStateType
     {

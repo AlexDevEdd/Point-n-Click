@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Utils.Serialize
+namespace Utils
 {
     [Serializable]
     public struct SerializableVector3

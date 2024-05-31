@@ -2,7 +2,6 @@
 using Cysharp.Threading.Tasks;
 using DG.Tweening;
 using GamePlay;
-using GamePlay.Configs;
 using JetBrains.Annotations;
 using Zenject;
 

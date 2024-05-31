@@ -1,4 +1,4 @@
-namespace App
+namespace App.SaveLoaders
 {
     public interface ISaveLoader
     {

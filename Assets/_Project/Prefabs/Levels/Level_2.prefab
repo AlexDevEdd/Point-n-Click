@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7545247414500458173
 Transform:
@@ -53,6 +53,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Obstacle (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1109602284194059271, guid: 531818c6d888ce54b97b7d6454d581d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3295569053913468105, guid: 531818c6d888ce54b97b7d6454d581d9,
         type: 3}
@@ -128,6 +133,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1109602284194059271, guid: 531818c6d888ce54b97b7d6454d581d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3295569053913468105, guid: 531818c6d888ce54b97b7d6454d581d9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -201,6 +211,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Obstacle (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1109602284194059271, guid: 531818c6d888ce54b97b7d6454d581d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3295569053913468105, guid: 531818c6d888ce54b97b7d6454d581d9,
         type: 3}
@@ -276,6 +291,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1109602284194059271, guid: 531818c6d888ce54b97b7d6454d581d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3295569053913468105, guid: 531818c6d888ce54b97b7d6454d581d9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -349,6 +369,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Obstacle (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1109602284194059271, guid: 531818c6d888ce54b97b7d6454d581d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3295569053913468105, guid: 531818c6d888ce54b97b7d6454d581d9,
         type: 3}
@@ -424,6 +449,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1109602284194059271, guid: 531818c6d888ce54b97b7d6454d581d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3295569053913468105, guid: 531818c6d888ce54b97b7d6454d581d9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -498,6 +528,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1109602284194059271, guid: 531818c6d888ce54b97b7d6454d581d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3295569053913468105, guid: 531818c6d888ce54b97b7d6454d581d9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -571,6 +606,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Obstacle (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1109602284194059271, guid: 531818c6d888ce54b97b7d6454d581d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3295569053913468105, guid: 531818c6d888ce54b97b7d6454d581d9,
         type: 3}
@@ -706,6 +746,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor
       objectReference: {fileID: 0}
+    - target: {fileID: 4851901683601312265, guid: f43f33e8cf819994b9119f4821970efc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -729,6 +774,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 1109602284194059271, guid: 531818c6d888ce54b97b7d6454d581d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3295569053913468105, guid: 531818c6d888ce54b97b7d6454d581d9,
         type: 3}

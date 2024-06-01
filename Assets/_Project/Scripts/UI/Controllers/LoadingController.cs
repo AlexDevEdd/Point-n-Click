@@ -1,11 +1,13 @@
 ﻿using App;
+using Common;
 using Cysharp.Threading.Tasks;
 using DG.Tweening;
 using GamePlay;
 using JetBrains.Annotations;
+using UI.Views;
 using Zenject;
 
-namespace UI
+namespace UI.Controllers
 {
     [UsedImplicitly]
     public sealed class LoadingController : IInitializable

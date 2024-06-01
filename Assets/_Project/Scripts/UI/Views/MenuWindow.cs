@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UI
+namespace UI.Views
 {
     public sealed class MenuWindow : MonoBehaviour
     {
